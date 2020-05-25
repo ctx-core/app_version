@@ -2,6 +2,7 @@
 	"name": "@ctx-core/version__app",
 	"version": "7.1.40",
 	"description": "ctx-core version__app",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
