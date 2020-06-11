@@ -34,7 +34,7 @@
 		"@ctx-core/env": "^8.3.33",
 		"@ctx-core/logger": "^3.1.18",
 		"@ctx-core/object": "^8.0.15",
-		"svelte": "^3.23.1"
+		"svelte": "^3.23.2"
 	},
 	"devDependencies": {
 		"@types/node": "^14.0.13",
