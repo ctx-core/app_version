@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/version__app",
-	"version": "7.1.49",
+	"version": "7.1.50",
 	"description": "ctx-core version__app",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -30,10 +30,10 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "^4.2.29",
-		"@ctx-core/env": "^8.3.34",
+		"@ctx-core/atob": "^4.2.30",
+		"@ctx-core/env": "^8.3.35",
 		"@ctx-core/logger": "^3.1.18",
-		"@ctx-core/object": "^8.0.15",
+		"@ctx-core/object": "^8.0.16",
 		"svelte": "^3.23.2"
 	},
 	"devDependencies": {
