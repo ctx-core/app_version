@@ -27,7 +27,8 @@ export function _versioned__js(src__script, opts?:{ debug?:boolean, minify?:bool
  */
 export function _versioned(url:string, opts?) {
 	log(`${logPrefix}|_versioned`)
-	return `${url}?${_query__version(opts)}`
+	return `${url}?${
+		_version(opts)}`
 }
 /**
  * _versioned with ctx
