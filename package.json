@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/version__app",
-	"version": "7.1.58",
+	"version": "7.1.59",
 	"description": "ctx-core version__app",
 	"main": "./index.js",
 	"module": "./index.js",
