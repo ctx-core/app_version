@@ -1,4 +1,3 @@
-import { _version } from './lib'
 export const RELEASE_VERSION =
 	process.env.RELEASE_VERSION
 	|| process.env.RELEASE_VERSION
