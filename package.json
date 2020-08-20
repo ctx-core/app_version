@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/version__app",
-	"version": "7.1.79",
+	"version": "7.1.80",
 	"description": "ctx-core version__app",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -30,9 +30,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "^4.2.37",
-		"@ctx-core/env": "^8.3.59",
-		"@ctx-core/object": "^9.0.13",
+		"@ctx-core/atob": "^4.2.38",
+		"@ctx-core/env": "^8.3.60",
+		"@ctx-core/object": "^9.0.14",
 		"svelte": "^3.24.1"
 	},
 	"devDependencies": {
