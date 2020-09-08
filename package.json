@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "^4.2.38",
+		"@ctx-core/atob": "^4.2.39",
 		"@ctx-core/env": "^8.3.63",
 		"@ctx-core/object": "^10.0.2",
 		"svelte": "^3.24.1"
