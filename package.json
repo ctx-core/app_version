@@ -1,43 +1,43 @@
 {
-	"name": "@ctx-core/version__app",
-	"version": "7.1.92",
-	"description": "ctx-core version__app",
-	"keywords": [
-		"ctx-core",
-		"version__app"
-	],
-	"homepage": "https://github.com/ctx-core/version__app#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/version__app/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/version__app/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"dependencies": {
-		"@ctx-core/atob": "workspace:*",
-		"@ctx-core/env": "workspace:*",
-		"@ctx-core/object": "workspace:*",
-		"svelte": "^3.25.0"
-	},
-	"devDependencies": {
-		"@types/node": "^14.10.1",
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "488e0b3d5c701b4aba6a6b68ae6b2b2f91a077fc"
+  "name": "@ctx-core/version__app",
+  "version": "7.1.93",
+  "description": "ctx-core version__app",
+  "keywords": [
+    "ctx-core",
+    "version__app"
+  ],
+  "homepage": "https://github.com/ctx-core/version__app#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/version__app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/version__app/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "dependencies": {
+    "@ctx-core/atob": "workspace:*",
+    "@ctx-core/env": "workspace:*",
+    "@ctx-core/object": "workspace:*",
+    "svelte": "~3.25.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.10.3",
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "488e0b3d5c701b4aba6a6b68ae6b2b2f91a077fc"
 }
