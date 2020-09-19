@@ -1,5 +1,18 @@
 # @ctx-core/version\_\_app
 
+## 8.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@5.0.0
+  - @ctx-core/env@9.0.0
+  - @ctx-core/object@12.0.0
+
 ## 7.1.94
 
 ### Patch Changes
