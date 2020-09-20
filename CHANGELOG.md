@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 8.0.2
+
+### Patch Changes
+
+- bump
+
+## 8.0.1
+
+### Patch Changes
+
+- fix: store.d.ts: use \$VERSION_type
+
 ## 8.0.0
 
 ### Major Changes
