@@ -1,5 +1,12 @@
 # @ctx-core/version\_\_app
 
+## 8.0.5
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@5.0.2
+
 ## 8.0.4
 
 ### Patch Changes
