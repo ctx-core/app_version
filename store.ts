@@ -1,4 +1,4 @@
-import { derived } from 'svelte/store'
+import { derived } from '@ctx-core/store'
 import { _b } from '@ctx-core/object'
 import { b__CACHE_VERSION, b__VERSION } from '@ctx-core/env'
 export const b__version__app = _b('__version__app', ctx=>
@@ -14,6 +14,6 @@ export const __version__app = b__version__app()
 export const b__query__version__app = _b('__query__version__app', ctx=>
 	derived(
 		b__version__app(ctx),
-		(app_version:string|number)=>
-			`v=${encodeURIComponent(app_version)}`))
+		app_version=>
+			`v=${encodeURIComponent(app_version as string|number)}`))
 export const __query__version__app = b__query__version__app()

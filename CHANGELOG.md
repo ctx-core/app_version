@@ -1,5 +1,15 @@
 # @ctx-core/version\_\_app
 
+## 8.0.23
+
+### Patch Changes
+
+- fix: tsc build issues
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/store@23.0.3
+  - @ctx-core/env@9.0.19
+
 ## 8.0.22
 
 ### Patch Changes
