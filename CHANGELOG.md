@@ -1,5 +1,16 @@
 # @ctx-core/version\_\_app
 
+## 8.1.20
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/atob@6.0.1
+  - @ctx-core/env@9.1.13
+  - @ctx-core/object@15.0.10
+  - @ctx-core/store@23.1.15
+
 ## 8.1.19
 
 ### Patch Changes
