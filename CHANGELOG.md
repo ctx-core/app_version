@@ -1,5 +1,12 @@
 # @ctx-core/version\_\_app
 
+## 8.1.33
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.3.1
+
 ## 8.1.32
 
 ### Patch Changes
