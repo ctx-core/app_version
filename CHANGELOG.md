@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_app
 
+## 8.1.34
+
+### Patch Changes
+
+- @types/node: ^14.14.19 -> ^14.14.20
+
 ## 8.1.33
 
 ### Patch Changes
