@@ -1,5 +1,14 @@
 # @ctx-core/version\_\_app
 
+## 8.1.47
+
+### Patch Changes
+
+- svelte: 3.31.2 -> 3.32.0
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.3.12
+  - @ctx-core/store@23.4.2
+
 ## 8.1.46
 
 ### Patch Changes
