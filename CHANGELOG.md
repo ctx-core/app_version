@@ -1,5 +1,12 @@
 # @ctx-core/version\_\_app
 
+## 9.0.3
+
+### Patch Changes
+
+- @ctx-core/store@24.0.3
+- @ctx-core/env@10.0.3
+
 ## 9.0.2
 
 ### Patch Changes
