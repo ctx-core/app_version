@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_app
 
+## 9.0.19
+
+### Patch Changes
+
+- @types/node: ^14.14.28 -> ^14.14.29
+
 ## 9.0.18
 
 ### Patch Changes
