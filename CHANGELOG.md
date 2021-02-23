@@ -1,5 +1,16 @@
 # @ctx-core/version\_\_app
 
+## 9.0.23
+
+### Patch Changes
+
+- typescript: ^4.1.5 -> ^4.2.2
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.0.3
+  - @ctx-core/env@10.0.17
+  - @ctx-core/object@17.0.9
+  - @ctx-core/store@24.0.17
+
 ## 9.0.22
 
 ### Patch Changes
