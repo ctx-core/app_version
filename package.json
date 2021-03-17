@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/version__app",
-	"version": "9.0.40",
+	"version": "9.0.41",
 	"description": "ctx-core version__app",
 	"keywords": [
 		"ctx-core",
@@ -28,9 +28,9 @@
 	},
 	"dependencies": {
 		"@ctx-core/atob": "workspace:^7.0.5",
-		"@ctx-core/env": "workspace:^10.0.30",
+		"@ctx-core/env": "workspace:^10.0.31",
 		"@ctx-core/object": "workspace:^17.4.0",
-		"@ctx-core/store": "workspace:^24.1.12",
+		"@ctx-core/store": "workspace:^24.1.13",
 		"svelte": "3.35.0"
 	},
 	"devDependencies": {

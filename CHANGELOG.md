@@ -1,5 +1,14 @@
 # @ctx-core/version\_\_app
 
+## 9.0.41
+
+### Patch Changes
+
+- 6d374f5ac: @types/node: ^14.14.34 -> ^14.14.35
+- Updated dependencies [undefined]
+  - @ctx-core/store@24.1.13
+  - @ctx-core/env@10.0.31
+
 ## 9.0.40
 
 ### Patch Changes
