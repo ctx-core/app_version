@@ -1,5 +1,16 @@
 # @ctx-core/version\_\_app
 
+## 9.0.43
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.0.6
+  - @ctx-core/env@10.0.32
+  - @ctx-core/object@17.4.1
+  - @ctx-core/store@24.1.14
+
 ## 9.0.42
 
 ### Patch Changes

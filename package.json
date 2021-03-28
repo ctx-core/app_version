@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/version__app",
-	"version": "9.0.42",
+	"version": "9.0.43",
 	"description": "ctx-core version__app",
 	"keywords": [
 		"ctx-core",
@@ -22,15 +22,15 @@
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "./node_modules/.bin/tsc -b",
+		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "workspace:^7.0.5",
-		"@ctx-core/env": "workspace:^10.0.31",
-		"@ctx-core/object": "workspace:^17.4.0",
-		"@ctx-core/store": "workspace:^24.1.13",
+		"@ctx-core/atob": "workspace:^7.0.6",
+		"@ctx-core/env": "workspace:^10.0.32",
+		"@ctx-core/object": "workspace:^17.4.1",
+		"@ctx-core/store": "workspace:^24.1.14",
 		"svelte": "3.35.0"
 	},
 	"devDependencies": {
