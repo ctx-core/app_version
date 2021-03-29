@@ -1,5 +1,16 @@
 # @ctx-core/version\_\_app
 
+## 9.0.44
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.0.7
+  - @ctx-core/env@10.0.33
+  - @ctx-core/object@17.4.2
+  - @ctx-core/store@24.1.15
+
 ## 9.0.43
 
 ### Patch Changes
