@@ -31,7 +31,7 @@
 		"@ctx-core/env": "workspace:^10.0.34",
 		"@ctx-core/object": "workspace:^17.4.3",
 		"@ctx-core/store": "workspace:^24.1.16",
-		"svelte": "3.35.0"
+		"svelte": "3.37.0"
 	},
 	"devDependencies": {
 		"@types/node": "^14.14.37",
