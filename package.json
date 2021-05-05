@@ -28,9 +28,9 @@
 	},
 	"dependencies": {
 		"@ctx-core/atob": "workspace:^7.0.10",
-		"@ctx-core/env": "workspace:^10.0.77",
-		"@ctx-core/object": "workspace:^17.5.23",
-		"@ctx-core/store": "workspace:^24.7.16",
+		"@ctx-core/env": "workspace:^10.0.78",
+		"@ctx-core/object": "workspace:^17.5.24",
+		"@ctx-core/store": "workspace:^24.7.17",
 		"svelte": "3.38.2"
 	},
 	"devDependencies": {
