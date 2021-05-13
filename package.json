@@ -30,7 +30,7 @@
 		"@ctx-core/atob": "workspace:^7.0.10",
 		"@ctx-core/env": "workspace:^10.0.82",
 		"@ctx-core/object": "workspace:^17.5.27",
-		"@ctx-core/store": "workspace:^24.7.23",
+		"@ctx-core/store": "workspace:^24.7.24",
 		"svelte": "3.38.2"
 	},
 	"devDependencies": {
