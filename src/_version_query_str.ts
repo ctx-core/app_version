@@ -1,8 +1,8 @@
-import { _version } from './_version'
+import { _version, _version_params_I } from './_version'
 /**
  * version query param
  * @returns {string}
  */
-export function _version_query_str(opts?) {
-	return `v=${encodeURIComponent(_version(opts))}`
+export function _version_query_str(params?:_version_params_I) {
+	return `v=${encodeURIComponent(_version(params))}`
 }

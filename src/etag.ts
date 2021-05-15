@@ -14,16 +14,17 @@ export const protocol_version = 0
  * - 96 bits - rest
  * @param {string} etag - base64 encoded etag format
  */
-export function _ctx__etag(etag) {
+export function _etag_ctx(etag:string) {
 	const etag$ = etag.replace('-', '')
 	const atob_Uint32Array = _atob_Uint32Array(etag$)
 	const protocol_version = atob_Uint32Array[0]
 	const CACHE_VERSION = atob_Uint32Array[1]
 	const timestamp = atob_Uint32Array[2]
-	const ctx__etag = {
+	const etag_ctx = {
 		protocol_version,
 		CACHE_VERSION,
 		timestamp
 	}
-	return ctx__etag
+	return etag_ctx
 }
+export { _etag_ctx as _ctx__etag }

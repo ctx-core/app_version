@@ -1,10 +1,10 @@
-import { _version } from './_version'
+import { _version, _version_params_I } from './_version'
 /**
  * versioned file
  * @param {*}ctx
  * @param {string} url
  * @returns {string}
  */
-export function _versioned(url:string, opts?) {
-	return `${url}?${_version(opts)}`
+export function _versioned(url:string, params?:_version_params_I) {
+	return `${url}?${_version(params)}`
 }

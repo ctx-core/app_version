@@ -9,8 +9,9 @@ export declare const protocol_version = 0;
  * - 96 bits - rest
  * @param {string} etag - base64 encoded etag format
  */
-export declare function _ctx__etag(etag: any): {
+export declare function _etag_ctx(etag: string): {
     protocol_version: number;
     CACHE_VERSION: number;
     timestamp: number;
 };
+export { _etag_ctx as _ctx__etag };
