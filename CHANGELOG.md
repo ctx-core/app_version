@@ -1,5 +1,16 @@
 # @ctx-core/version\_\_app
 
+## 9.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.1.2
+  - @ctx-core/env@10.1.2
+  - @ctx-core/object@17.6.2
+  - @ctx-core/store@24.8.2
+
 ## 9.1.1
 
 ### Patch Changes
