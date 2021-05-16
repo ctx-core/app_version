@@ -1,5 +1,16 @@
 # @ctx-core/version\_\_app
 
+## 9.1.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.1.1
+  - @ctx-core/env@10.1.1
+  - @ctx-core/object@17.6.1
+  - @ctx-core/store@24.8.1
+
 ## 9.1.0
 
 ### Minor Changes
