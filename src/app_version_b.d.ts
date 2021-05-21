@@ -1,6 +1,6 @@
 import { Readable$ } from '@ctx-core/store';
-import { CACHE_VERSION_ctx_I, VERSION_ctx_I } from '@ctx-core/env';
-export interface app_version_Ctx extends CACHE_VERSION_ctx_I, VERSION_ctx_I {
+import { CACHE_VERSION_Ctx, VERSION_Ctx } from '@ctx-core/env';
+export interface app_version_Ctx extends CACHE_VERSION_Ctx, VERSION_Ctx {
     app_version?: app_version_T;
 }
 export declare const app_version_b: import("@ctx-core/object").Be<app_version_Ctx, "app_version">;
