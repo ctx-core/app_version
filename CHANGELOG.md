@@ -1,5 +1,14 @@
 # @ctx-core/version\_\_app
 
+## 9.1.9
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.1.7
+  - @ctx-core/store@24.8.6
+
 ## 9.1.8
 
 ### Patch Changes
