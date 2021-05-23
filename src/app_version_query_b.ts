@@ -1,11 +1,9 @@
 import { _b } from '@ctx-core/object'
 import { derived$, Readable$ } from '@ctx-core/store'
-import { app_version_b, app_version_Ctx } from './app_version_b'
+import { app_version_b } from './app_version_b'
+import type { app_version_Ctx } from './app_version_Ctx'
 const key = 'app_version_query'
-export interface app_version_query_Ctx extends app_version_Ctx {
-	app_version_query?:app_version_query_T
-}
-export const app_version_query_b = _b<app_version_query_Ctx, typeof key>(key, ctx=>
+export const app_version_query_b = _b<app_version_Ctx, typeof key>(key, ctx=>
 	derived$(
 		app_version_b(ctx),
 		app_version=>

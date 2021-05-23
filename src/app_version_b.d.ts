@@ -1,8 +1,5 @@
 import { Readable$ } from '@ctx-core/store';
-import { CACHE_VERSION_Ctx, VERSION_Ctx } from '@ctx-core/env';
-export interface app_version_Ctx extends CACHE_VERSION_Ctx, VERSION_Ctx {
-    app_version?: app_version_T;
-}
+import type { app_version_Ctx } from './app_version_Ctx';
 export declare const app_version_b: import("@ctx-core/object").Be<app_version_Ctx, "app_version", app_version_T>;
 export declare type $app_version_T = string;
 export interface app_version_T extends Readable$<$app_version_T> {
