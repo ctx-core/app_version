@@ -1,5 +1,16 @@
 # @ctx-core/version\_\_app
 
+## 9.3.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.2.1
+  - @ctx-core/env@10.3.1
+  - @ctx-core/object@18.1.1
+  - @ctx-core/store@24.9.1
+
 ## 9.3.0
 
 ### Minor Changes
