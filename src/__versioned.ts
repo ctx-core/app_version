@@ -5,8 +5,8 @@ import type { _version_params_I } from './_version'
  * @param {*}ctx
  * @returns {string}
  */
-export function __versioned(params?:_version_params_I) {
-	return function _versioned__versioned(url:string) {
+export function __versioned(params:_version_params_I) {
+	return function __versioned(url:string) {
 		return _versioned(url, params)
 	}
 }

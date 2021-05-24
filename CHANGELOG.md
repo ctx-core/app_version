@@ -1,5 +1,19 @@
 # @ctx-core/version\_\_app
 
+## 9.3.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.2.0
+  - @ctx-core/env@10.3.0
+  - @ctx-core/object@18.1.0
+  - @ctx-core/store@24.9.0
+
 ## 9.2.3
 
 ### Patch Changes
