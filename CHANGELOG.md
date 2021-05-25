@@ -1,5 +1,19 @@
 # @ctx-core/version\_\_app
 
+## 9.4.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.3.0
+  - @ctx-core/env@10.4.0
+  - @ctx-core/object@18.2.0
+  - @ctx-core/store@24.10.0
+
 ## 9.3.2
 
 ### Patch Changes
