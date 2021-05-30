@@ -1,4 +1,4 @@
-export function _version(params?:_version_params_I) {
+export function version_(params?:version_params__I) {
 	return (
 		(params && (params.CACHE_VERSION || params.VERSION))
 		|| process.env.CACHE_VERSION
@@ -6,7 +6,7 @@ export function _version(params?:_version_params_I) {
 		|| Math.random()
 	)
 }
-export interface _version_params_I {
+export interface version_params__I {
 	CACHE_VERSION?:string
 	VERSION?:string
 }

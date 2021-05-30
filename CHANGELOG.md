@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_app
 
+## 10.0.1
+
+### Patch Changes
+
+- fix: latest version committed to the repo
+
 ## 9.4.1
 
 ### Patch Changes

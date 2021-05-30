@@ -1,18 +1,18 @@
 {
-	"name": "@ctx-core/version__app",
-	"version": "9.4.1",
-	"description": "ctx-core version__app",
+	"name": "@ctx-core/app_version",
+	"version": "10.0.1",
+	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
-		"version__app"
+		"app_version"
 	],
-	"homepage": "https://github.com/ctx-core/version__app#readme",
+	"homepage": "https://github.com/ctx-core/app_version#readme",
 	"bugs": {
-		"url": "https://github.com/ctx-core/version__app/issues"
+		"url": "https://github.com/ctx-core/app_version/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/version__app/issues"
+		"url": "https://github.com/ctx-core/app_version/issues"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
@@ -20,20 +20,23 @@
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"scripts": {
-		"build": "npm run clean && npm run compile",
+		"build": "npm run clean && npm run generate_ctx_I_file && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
-		"prepublishOnly": "npm run compile"
+		"prepublishOnly": "npm run compile",
+		"generate_ctx_I_file": "./node_modules/.bin/generate_ctx_I_file"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "workspace:^7.3.1",
-		"@ctx-core/env": "workspace:^10.4.4",
-		"@ctx-core/object": "workspace:^18.2.1",
-		"@ctx-core/store": "workspace:^24.10.1",
+		"@ctx-core/array": "workspace:^21.0.0",
+		"@ctx-core/atob": "workspace:^8.0.0",
+		"@ctx-core/env": "workspace:^11.0.0",
+		"@ctx-core/object": "workspace:^19.0.0",
+		"@ctx-core/store": "workspace:^25.0.0",
 		"svelte": "3.38.2"
 	},
 	"devDependencies": {
+		"@ctx-core/dev-tools": "workspace:^5.0.0",
 		"@types/node": "^15.6.1",
 		"typescript": "^4.3.2"
 	},
