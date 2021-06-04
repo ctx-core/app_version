@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 10.0.14
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/env@11.0.8
+
 ## 10.0.13
 
 ### Patch Changes
