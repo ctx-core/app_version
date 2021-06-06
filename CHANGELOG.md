@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 10.0.23
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.6
+  - @ctx-core/atob@8.0.1
+  - @ctx-core/env@11.0.15
+  - @ctx-core/object@19.1.2
+  - @ctx-core/store@25.1.12
+
 ## 10.0.22
 
 ### Patch Changes
