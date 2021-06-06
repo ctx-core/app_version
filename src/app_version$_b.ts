@@ -1,11 +1,11 @@
 import { be_ } from '@ctx-core/object'
-import { tuple_ } from '@ctx-core/array'
+import { tup } from '@ctx-core/array'
 import { derived$, Readable$ } from '@ctx-core/store'
 import { CACHE_VERSION$_b, VERSION$_b } from '@ctx-core/env'
 import type { app_version_Ctx } from './app_version_Ctx'
 const key = 'app_version$'
 export const app_version$_b = be_<app_version_Ctx, typeof key>(key, ctx=>
-	derived$(tuple_(
+	derived$(tup(
 		CACHE_VERSION$_b(ctx),
 		VERSION$_b(ctx),
 		),

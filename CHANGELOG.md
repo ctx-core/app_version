@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 10.0.18
+
+### Patch Changes
+
+- tup instead of tuple\_
+- Updated dependencies [undefined]
+  - @ctx-core/store@25.1.7
+
 ## 10.0.17
 
 ### Patch Changes
