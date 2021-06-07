@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 10.0.24
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.7
+  - @ctx-core/atob@8.0.2
+  - @ctx-core/env@11.0.16
+  - @ctx-core/object@19.1.3
+  - @ctx-core/store@25.1.13
+
 ## 10.0.23
 
 ### Patch Changes
