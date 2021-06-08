@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 10.0.28
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/store@25.1.16
+
 ## 10.0.27
 
 ### Patch Changes
