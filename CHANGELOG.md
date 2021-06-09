@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 10.0.32
+
+### Patch Changes
+
+- fix: B: inferred type issue
+- Updated dependencies [undefined]
+  - @ctx-core/env@11.0.20
+
 ## 10.0.31
 
 ### Patch Changes
