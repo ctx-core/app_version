@@ -1,5 +1,20 @@
 # @ctx-core/version\_\_app
 
+## 11.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.0
+  - @ctx-core/atob@9.0.0
+  - @ctx-core/env@12.0.0
+  - @ctx-core/object@20.0.0
+  - @ctx-core/store@26.0.0
+
 ## 10.0.35
 
 ### Patch Changes
