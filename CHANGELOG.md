@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 11.0.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/store@26.0.1
+
 ## 11.0.0
 
 ### Major Changes
