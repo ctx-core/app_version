@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 11.0.10
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.5
+  - @ctx-core/atob@9.0.3
+  - @ctx-core/env@12.0.7
+  - @ctx-core/object@20.0.4
+  - @ctx-core/store@26.0.5
+
 ## 11.0.7
 
 ### Patch Changes
