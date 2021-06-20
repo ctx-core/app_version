@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 11.0.12
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.7
+  - @ctx-core/atob@9.0.5
+  - @ctx-core/env@12.0.9
+  - @ctx-core/object@20.0.6
+  - @ctx-core/store@26.0.7
+
 ## 11.0.11
 
 ### Patch Changes
