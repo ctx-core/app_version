@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 11.0.13
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.8
+  - @ctx-core/atob@9.0.6
+  - @ctx-core/env@12.0.10
+  - @ctx-core/object@20.0.7
+  - @ctx-core/store@26.0.8
+
 ## 11.0.12
 
 ### Patch Changes
