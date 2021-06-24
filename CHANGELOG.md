@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 11.0.17
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.11
+  - @ctx-core/atob@9.0.8
+  - @ctx-core/env@12.0.14
+  - @ctx-core/object@20.1.1
+  - @ctx-core/store@26.0.12
+
 ## 11.0.16
 
 ### Patch Changes
