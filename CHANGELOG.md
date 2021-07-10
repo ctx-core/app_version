@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_app
 
+## 11.0.35
+
+### Patch Changes
+
+- update dependencies
+
 ## 11.0.34
 
 ### Patch Changes
