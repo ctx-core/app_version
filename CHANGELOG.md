@@ -1,5 +1,20 @@
 # @ctx-core/version\_\_app
 
+## 12.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.0
+  - @ctx-core/atob@10.0.0
+  - @ctx-core/env@13.0.0
+  - @ctx-core/object@21.0.0
+  - @ctx-core/store@27.0.0
+
 ## 11.0.38
 
 ### Patch Changes
