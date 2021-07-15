@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 12.0.3
+
+### Patch Changes
+
+- import: + .js extention
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.3
+
 ## 12.0.2
 
 ### Patch Changes

@@ -1,5 +1,5 @@
 export * from './app_version_Ctx.js'
-export * from './app_version_ctx_I.generated'
+export * from './app_version_ctx_I.generated.js'
 export * from './versioned_3.js'
 export * from './js_versioned_.js'
 export * from './version_.js'
