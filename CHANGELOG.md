@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 12.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.2
+  - @ctx-core/atob@10.0.2
+  - @ctx-core/env@13.0.2
+  - @ctx-core/object@21.0.2
+  - @ctx-core/store@27.0.2
+
 ## 12.0.1
 
 ### Patch Changes
