@@ -1,5 +1,5 @@
-import { versioned_ } from './versioned_'
-import type { version_params__I } from './version_'
+import { versioned_ } from './versioned_.js'
+import type { version_params__I } from './version_.js'
 /**
  *
  * @param {*}ctx
