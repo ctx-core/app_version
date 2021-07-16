@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 12.0.8
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.7
+  - @ctx-core/atob@10.0.7
+  - @ctx-core/env@13.0.8
+  - @ctx-core/object@21.0.6
+  - @ctx-core/store@27.0.5
+
 ## 12.0.7
 
 ### Patch Changes
