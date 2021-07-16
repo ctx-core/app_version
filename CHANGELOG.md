@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 12.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.3
+  - @ctx-core/atob@10.0.3
+  - @ctx-core/env@13.0.5
+  - @ctx-core/object@21.0.3
+  - @ctx-core/store@27.0.3
+
 ## 12.0.3
 
 ### Patch Changes
