@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 12.0.15
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.12
+  - @ctx-core/atob@10.0.13
+  - @ctx-core/env@13.0.13
+  - @ctx-core/object@21.0.11
+  - @ctx-core/store@27.0.10
+
 ## 12.0.14
 
 ### Patch Changes
