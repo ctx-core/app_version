@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "12.0.30",
+	"version": "12.0.31",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -38,17 +38,17 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.13",
-		"@ctx-core/atob": "workspace:^10.0.14",
-		"@ctx-core/env": "workspace:^13.0.22",
-		"@ctx-core/object": "workspace:^21.0.12",
-		"@ctx-core/store": "workspace:^27.0.16",
+		"@ctx-core/array": "workspace:^23.0.14",
+		"@ctx-core/atob": "workspace:^10.0.15",
+		"@ctx-core/env": "workspace:^13.0.23",
+		"@ctx-core/object": "workspace:^21.0.13",
+		"@ctx-core/store": "workspace:^27.0.17",
 		"esm": "^3.2.25",
 		"svelte": "3.41.0"
 	},
 	"devDependencies": {
-		"@ctx-core/dev-tools": "workspace:^7.0.18",
-		"@types/node": "^16.4.7",
+		"@ctx-core/dev-tools": "workspace:^7.0.19",
+		"@types/node": "^16.4.8",
 		"typescript": "^4.3.5"
 	},
 	"publishConfig": {
