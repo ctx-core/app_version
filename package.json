@@ -38,11 +38,11 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.19",
+		"@ctx-core/array": "workspace:^23.0.20",
 		"@ctx-core/atob": "workspace:^10.0.19",
-		"@ctx-core/env": "workspace:^13.0.37",
-		"@ctx-core/object": "workspace:^21.0.18",
-		"@ctx-core/store": "workspace:^27.0.28",
+		"@ctx-core/env": "workspace:^13.0.38",
+		"@ctx-core/object": "workspace:^21.0.19",
+		"@ctx-core/store": "workspace:^27.0.29",
 		"esm": "^3.2.25",
 		"svelte": "3.42.5"
 	},
