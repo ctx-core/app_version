@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "12.0.67",
+	"version": "12.0.68",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -40,11 +40,11 @@
 	"dependencies": {
 		"@ctx-core/array": "workspace:^23.0.21",
 		"@ctx-core/atob": "workspace:^10.0.19",
-		"@ctx-core/env": "workspace:^13.0.40",
+		"@ctx-core/env": "workspace:^13.0.41",
 		"@ctx-core/object": "workspace:^21.0.20",
-		"@ctx-core/store": "workspace:^27.0.31",
+		"@ctx-core/store": "workspace:^27.0.32",
 		"esm": "^3.2.25",
-		"svelte": "3.42.6"
+		"svelte": "3.43.0"
 	},
 	"devDependencies": {
 		"@ctx-core/dev-tools": "workspace:^7.1.3",
