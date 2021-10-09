@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 12.0.73
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/atob@10.0.20
+
 ## 12.0.72
 
 ### Patch Changes
