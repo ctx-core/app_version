@@ -1,5 +1,20 @@
 # @ctx-core/version\_\_app
 
+## 12.0.74
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- svelte: 3.43.1 -> 3.44.0
+- @types/node: ^16.10.3 -> ^16.11.6
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.22
+  - @ctx-core/atob@10.0.21
+  - @ctx-core/env@13.0.43
+  - @ctx-core/object@21.0.21
+  - @ctx-core/store@27.0.34
+
 ## 12.0.73
 
 ### Patch Changes
