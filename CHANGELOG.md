@@ -1,5 +1,15 @@
 # @ctx-core/version\_\_app
 
+## 13.0.0
+
+### Major Changes
+
+- simplify types: app_version_query\$\_T
+
+### Minor Changes
+
+- etag*ctx* from \_etag_ctx
+
 ## 12.0.78
 
 ### Patch Changes

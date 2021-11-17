@@ -8,5 +8,5 @@ export const app_version_query$_b:B<app_version_Ctx, typeof key> = be_(key, ctx=
 		app_version$_b(ctx),
 		app_version=>
 			`v=${encodeURIComponent(app_version as string|number)}`))
-export interface app_version_query$_T extends Readable$<string> {}
+export type app_version_query$_T = Readable$<string>
 export { app_version_query$_b as b__query__version__app }
