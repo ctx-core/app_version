@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 13.0.5
+
+### Patch Changes
+
+- @swc/core: ^1.2.116 -> ^1.2.117
+- Updated dependencies
+  - @ctx-core/array@23.0.29
+  - @ctx-core/atob@10.0.29
+  - @ctx-core/env@13.0.51
+  - @ctx-core/object@21.0.28
+  - @ctx-core/store@27.0.42
+
 ## 13.0.4
 
 ### Patch Changes
