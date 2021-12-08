@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "13.0.8",
+	"version": "13.0.9",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -21,7 +21,6 @@
 	"types": "./src/index.ts",
 	"exports": {
 		".": {
-			"require": "./dist/index.cjs",
 			"import": "./dist/index.js"
 		},
 		"./package.json": "./package.json"
@@ -46,7 +45,7 @@
 		"@ctx-core/dev-tools": "workspace:^7.2.9",
 		"@swc/cli": "^0.1.52",
 		"@swc/core": "^1.2.118",
-		"@types/node": "^16.11.11",
+		"@types/node": "^16.11.12",
 		"typescript": "next"
 	},
 	"publishConfig": {
