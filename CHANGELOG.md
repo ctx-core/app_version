@@ -1,5 +1,23 @@
 # @ctx-core/version\_\_app
 
+## 14.0.0
+
+### Major Changes
+
+- \*\_b: ctx is a map: @ctx-core/object: 22.0.0
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@22.0.0
+  - @ctx-core/env@14.0.0
+  - @ctx-core/array@23.0.33
+  - @ctx-core/atob@10.0.32
+  - @ctx-core/store@27.0.46
+
 ## 13.0.9
 
 ### Patch Changes
