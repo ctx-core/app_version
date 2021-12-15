@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 14.0.4
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/array@23.0.36
+  - @ctx-core/atob@10.0.35
+  - @ctx-core/env@14.0.4
+  - @ctx-core/object@22.0.3
+  - @ctx-core/store@27.0.50
+
 ## 14.0.3
 
 ### Patch Changes
