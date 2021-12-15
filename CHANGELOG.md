@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 14.0.3
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/array@23.0.35
+  - @ctx-core/atob@10.0.34
+  - @ctx-core/env@14.0.3
+  - @ctx-core/object@22.0.2
+  - @ctx-core/store@27.0.49
+
 ## 14.0.2
 
 ### Patch Changes
