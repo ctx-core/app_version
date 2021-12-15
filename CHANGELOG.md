@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 14.0.5
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/array@23.0.37
+  - @ctx-core/atob@10.0.36
+  - @ctx-core/env@14.0.5
+  - @ctx-core/object@22.0.4
+  - @ctx-core/store@27.0.51
+
 ## 14.0.4
 
 ### Patch Changes
