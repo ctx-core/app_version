@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 14.0.8
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/array@23.0.40
+  - @ctx-core/atob@10.0.39
+  - @ctx-core/env@14.0.8
+  - @ctx-core/object@22.0.7
+  - @ctx-core/store@27.0.54
+
 ## 14.0.7
 
 ### Patch Changes
