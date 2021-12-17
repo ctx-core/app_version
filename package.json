@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "14.0.6",
+	"version": "14.0.7",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
@@ -35,11 +35,11 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.38",
-		"@ctx-core/atob": "workspace:^10.0.37",
-		"@ctx-core/env": "workspace:^14.0.6",
-		"@ctx-core/object": "workspace:^22.0.5",
-		"@ctx-core/store": "workspace:^27.0.52",
+		"@ctx-core/array": "workspace:^23.0.39",
+		"@ctx-core/atob": "workspace:^10.0.38",
+		"@ctx-core/env": "workspace:^14.0.7",
+		"@ctx-core/object": "workspace:^22.0.6",
+		"@ctx-core/store": "workspace:^27.0.53",
 		"svelte": "^3.44.3"
 	},
 	"devDependencies": {
