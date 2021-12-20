@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "14.0.9",
+	"version": "15.0.0",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -37,15 +37,15 @@
 	"dependencies": {
 		"@ctx-core/array": "workspace:^23.0.41",
 		"@ctx-core/atob": "workspace:^10.0.40",
-		"@ctx-core/env": "workspace:^14.0.9",
+		"@ctx-core/env": "workspace:^15.0.0",
+		"@ctx-core/nanostores": "workspace:^0.1.0",
 		"@ctx-core/object": "workspace:^22.0.8",
-		"@ctx-core/store": "workspace:^27.0.55",
 		"svelte": "^3.44.3"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.120",
-		"@types/node": "^17.0.0",
+		"@swc/core": "^1.2.121",
+		"@types/node": "^17.0.1",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
