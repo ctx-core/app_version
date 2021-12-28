@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.41",
+		"@ctx-core/array": "workspace:^23.1.0",
 		"@ctx-core/atob": "workspace:^10.0.40",
 		"@ctx-core/env": "workspace:^15.0.5",
 		"@ctx-core/nanostores": "workspace:^0.3.0",
