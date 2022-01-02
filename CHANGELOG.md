@@ -1,5 +1,15 @@
 # @ctx-core/version\_\_app
 
+## 15.0.6
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/atob@10.0.42
+  - @ctx-core/env@15.0.7
+  - @ctx-core/nanostores@0.3.1
+
 ## 15.0.5
 
 ### Patch Changes
