@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_app
 
+## 15.0.8
+
+### Patch Changes
+
+- update dependencies
+
 ## 15.0.7
 
 ### Patch Changes
