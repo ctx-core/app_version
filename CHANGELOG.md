@@ -1,5 +1,20 @@
 # @ctx-core/version\_\_app
 
+## 15.0.9
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- @types/node: ^17.0.7 -> ^17.0.8
+- svelte: ^3.44.3 -> ^3.45.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/array@23.1.3
+  - @ctx-core/atob@10.0.45
+  - @ctx-core/env@15.0.9
+  - @ctx-core/nanostores@0.3.3
+  - @ctx-core/object@22.0.11
+
 ## 15.0.8
 
 ### Patch Changes
