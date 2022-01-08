@@ -1,5 +1,17 @@
 # @ctx-core/version\_\_app
 
+## 15.0.10
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/array@23.1.4
+  - @ctx-core/atob@10.0.46
+  - @ctx-core/env@15.0.10
+  - @ctx-core/nanostores@0.3.4
+  - @ctx-core/object@22.0.12
+
 ## 15.0.9
 
 ### Patch Changes
