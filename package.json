@@ -38,9 +38,9 @@
 		"@ctx-core/array": "workspace:^23.1.4",
 		"@ctx-core/atob": "workspace:^10.0.46",
 		"@ctx-core/env": "workspace:^15.0.13",
-		"@ctx-core/nanostores": "workspace:^0.3.7",
+		"@ctx-core/nanostores": "workspace:^0.3.8",
 		"@ctx-core/object": "workspace:^22.0.12",
-		"svelte": "^3.45.0"
+		"svelte": "^3.46.1"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
