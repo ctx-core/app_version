@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 15.0.15
+
+### Patch Changes
+
+- 738370415: svelte: ^3.45.0 -> ^3.46.1
+- Updated dependencies [738370415]
+  - @ctx-core/env@15.0.14
+
 ## 15.0.14
 
 ### Patch Changes
