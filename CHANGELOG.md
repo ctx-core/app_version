@@ -1,5 +1,14 @@
 # @ctx-core/version\_\_app
 
+## 15.0.18
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/array@24.0.0
+
 ## 15.0.17
 
 ### Patch Changes
