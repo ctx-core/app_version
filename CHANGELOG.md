@@ -1,5 +1,16 @@
 # @ctx-core/version\_\_app
 
+## 16.0.0
+
+### Major Changes
+
+- flatten functions: remove \_b suffix from exports
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/env@16.0.0
+
 ## 15.0.21
 
 ### Patch Changes

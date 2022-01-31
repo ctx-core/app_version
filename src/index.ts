@@ -1,5 +1,5 @@
-export * from './app_version$_b.js'
-export * from './app_version_query$_b.js'
+export * from './app_version$_.js'
+export * from './app_version_query$_.js'
 export * from './versioned_3.js'
 export * from './js_versioned_.js'
 export * from './version_.js'
