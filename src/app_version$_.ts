@@ -1,8 +1,7 @@
 import { CACHE_VERSION$_, VERSION$_ } from '@ctx-core/env'
 import { computed$, ReadableAtom$ } from '@ctx-core/nanostores'
 import { B, be_ } from '@ctx-core/object'
-const key = 'app_version$'
-export const app_version$_:B<app_version$_T> = be_(key, ctx=>
+export const app_version$_:B<app_version$_T> = be_('app_version$', ctx=>
 	computed$([
 		CACHE_VERSION$_(ctx),
 		VERSION$_(ctx),

@@ -1,8 +1,7 @@
 import { computed$, ReadableAtom$ } from '@ctx-core/nanostores'
 import { B, be_ } from '@ctx-core/object'
 import { app_version$_ } from './app_version$_.js'
-const key = 'app_version_query$'
-export const app_version_query$_:B<app_version_query$_T> = be_(key, ctx=>
+export const app_version_query$_:B<app_version_query$_T> = be_('app_version_query$', ctx=>
 	computed$(
 		app_version$_(ctx),
 		app_version=>
