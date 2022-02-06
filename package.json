@@ -35,11 +35,11 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^24.0.1",
-		"@ctx-core/atob": "workspace:^10.0.46",
-		"@ctx-core/env": "workspace:^16.0.2",
-		"@ctx-core/nanostores": "workspace:^0.5.3",
-		"@ctx-core/object": "workspace:^22.0.13",
+		"@ctx-core/array": "^24.0.1",
+		"@ctx-core/atob": "^10.0.46",
+		"@ctx-core/env": "^16.0.2",
+		"@ctx-core/nanostores": "^0.5.3",
+		"@ctx-core/object": "^22.0.13",
 		"svelte": "^3.46.4"
 	},
 	"devDependencies": {
