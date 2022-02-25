@@ -36,7 +36,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "*",
-		"@ctx-core/atob": "^10.0.47",
+		"@ctx-core/atob": "^10.0.48",
 		"@ctx-core/env": "^16.0.6",
 		"@ctx-core/nanostores": "^0.7.1",
 		"@ctx-core/object": "*",
