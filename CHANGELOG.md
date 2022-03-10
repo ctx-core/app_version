@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 16.0.7
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/nanostores@1.0.0
+  - @ctx-core/env@16.0.8
+
 ## 16.0.6
 
 ### Patch Changes
