@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "16.0.16",
+	"version": "16.0.17",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -33,11 +33,11 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.1.5",
-		"@ctx-core/atob": "^10.0.52",
-		"@ctx-core/env": "^16.0.18",
-		"@ctx-core/nanostores": "^1.0.14",
-		"@ctx-core/object": "^22.1.6",
+		"@ctx-core/array": "workspace:^26.2.0",
+		"@ctx-core/atob": "workspace:^10.0.53",
+		"@ctx-core/env": "workspace:^16.0.19",
+		"@ctx-core/nanostores": "workspace:^1.0.15",
+		"@ctx-core/object": "workspace:^22.1.7",
 		"svelte": "^3.47.0"
 	},
 	"devDependencies": {
