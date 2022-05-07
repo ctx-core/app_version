@@ -35,14 +35,14 @@
 	"dependencies": {
 		"@ctx-core/array": "^26.2.3",
 		"@ctx-core/atob": "^10.0.56",
-		"@ctx-core/env": "^16.0.23",
+		"@ctx-core/env": "^16.0.24",
 		"@ctx-core/nanostores": "^1.0.18",
 		"@ctx-core/object": "^22.1.10",
 		"svelte": "^3.48.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.177",
+		"@swc/core": "^1.2.178",
 		"@types/atob-lite": "^2.0.0",
 		"@types/node": "^17.0.31",
 		"rimraf": "^3.0.2",
