@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "16.0.25",
+	"version": "16.0.26",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.4.0",
+		"@ctx-core/array": "^26.4.2",
 		"@ctx-core/atob": "^10.0.57",
 		"@ctx-core/env": "^16.0.25",
 		"@ctx-core/nanostores": "^1.0.19",
