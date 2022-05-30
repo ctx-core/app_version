@@ -1,8 +1,8 @@
 import { CACHE_VERSION$_, VERSION$_ } from '@ctx-core/env'
-import { computed$, ReadableAtom$ } from '@ctx-core/nanostores'
+import { computed_, ReadableAtom_ } from '@ctx-core/nanostores'
 import { B, be_ } from '@ctx-core/object'
 export const app_version$_:B<app_version$_T> = be_('app_version$', ctx=>
-	computed$([
+	computed_([
 		CACHE_VERSION$_(ctx),
 		VERSION$_(ctx),
 		],
@@ -11,4 +11,4 @@ export const app_version$_:B<app_version$_T> = be_('app_version$', ctx=>
 			|| VERSION
 			|| Math.random().toString()) as app_version$_T
 )
-export type app_version$_T = ReadableAtom$<string>
+export type app_version$_T = ReadableAtom_<string>
