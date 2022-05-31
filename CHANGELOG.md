@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_app
 
+## 16.1.0
+
+### Minor Changes
+
+- feat: app*version\\_\\_ aliased by app_version\$*,app*version_query\\_\\_ aliased by app_version_query\$*
+
 ## 16.0.32
 
 ### Patch Changes
