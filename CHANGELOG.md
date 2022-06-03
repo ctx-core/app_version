@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 16.2.1
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/nanostores@1.4.1
+
 ## 16.2.0
 
 ### Minor Changes
@@ -16,7 +24,7 @@
 
 ### Minor Changes
 
-- feat: app*version\\\_\\\_ aliased by app_version\$*,app*version_query\\\_\\\_ aliased by app_version_query\$*
+- feat: app*version\\\\_\\\\_ aliased by app_version\$*,app*version_query\\\\_\\\\_ aliased by app_version_query\$*
 
 ## 16.0.32
 
