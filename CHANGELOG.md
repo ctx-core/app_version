@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 16.2.4
+
+### Patch Changes
+
+- svelte: ^3.48.0 -> ^3.49.0
+- Updated dependencies
+  - @ctx-core/env@16.1.2
+
 ## 16.2.3
 
 ### Patch Changes
@@ -36,7 +44,7 @@
 
 ### Minor Changes
 
-- feat: app*version\\\\\\_\\\\\\_ aliased by app_version\$*,app*version_query\\\\\\_\\\\\\_ aliased by app_version_query\$*
+- feat: app*version\\\\\\\_\\\\\\\_ aliased by app_version\$*,app*version_query\\\\\\\_\\\\\\\_ aliased by app_version_query\$*
 
 ## 16.0.32
 
