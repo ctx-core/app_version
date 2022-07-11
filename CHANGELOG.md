@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 16.2.5
+
+### Patch Changes
+
+- @ctx-core/nanostores: ^1.4.1 -> ^1.4.2
+- Updated dependencies
+  - @ctx-core/env@16.1.3
+
 ## 16.2.4
 
 ### Patch Changes
@@ -44,7 +52,7 @@
 
 ### Minor Changes
 
-- feat: app*version\\\\\\\_\\\\\\\_ aliased by app_version\$*,app*version_query\\\\\\\_\\\\\\\_ aliased by app_version_query\$*
+- feat: app*version\\\\\\\\_\\\\\\\\_ aliased by app_version\$*,app*version_query\\\\\\\\_\\\\\\\\_ aliased by app_version_query\$*
 
 ## 16.0.32
 
