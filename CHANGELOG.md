@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_app
 
+## 16.2.6
+
+### Patch Changes
+
+- @ctx-core/array: ^26.6.0 -> ^26.7.0
+- Updated dependencies
+  - @ctx-core/array@26.7.1
+
 ## 16.2.5
 
 ### Patch Changes
@@ -52,7 +60,7 @@
 
 ### Minor Changes
 
-- feat: app*version\\\\\\\\_\\\\\\\\_ aliased by app_version\$*,app*version_query\\\\\\\\_\\\\\\\\_ aliased by app_version_query\$*
+- feat: app*version\\\\\\\\\_\\\\\\\\\_ aliased by app_version\$*,app*version_query\\\\\\\\\_\\\\\\\\\_ aliased by app_version_query\$*
 
 ## 16.0.32
 
