@@ -42,9 +42,9 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.231",
+		"@swc/core": "^1.2.233",
 		"@types/atob-lite": "^2.0.0",
-		"@types/node": "^18.7.3",
+		"@types/node": "^18.7.4",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
