@@ -42,7 +42,7 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.233",
+		"@swc/core": "^1.2.237",
 		"@types/atob-lite": "^2.0.0",
 		"@types/node": "^18.7.6",
 		"rimraf": "^3.0.2",
