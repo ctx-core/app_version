@@ -33,18 +33,18 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.7.6",
-		"@ctx-core/atob": "^10.0.57",
-		"@ctx-core/env": "^16.1.8",
-		"@ctx-core/nanostores": "^1.4.10",
-		"@ctx-core/object": "^22.2.6",
+		"@ctx-core/array": "^26.7.7",
+		"@ctx-core/atob": "^10.0.58",
+		"@ctx-core/env": "^16.1.9",
+		"@ctx-core/nanostores": "^1.4.11",
+		"@ctx-core/object": "^22.2.7",
 		"svelte": "^3.49.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
 		"@swc/core": "^1.2.244",
 		"@types/atob-lite": "^2.0.0",
-		"@types/node": "^18.7.13",
+		"@types/node": "^18.7.14",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
