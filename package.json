@@ -37,7 +37,7 @@
 		"@ctx-core/atob": "^10.0.58",
 		"@ctx-core/env": "^16.1.17",
 		"@ctx-core/nanostores": "^2.2.1",
-		"@ctx-core/object": "^22.2.8",
+		"@ctx-core/object": "^22.3.0",
 		"svelte": "^3.52.0"
 	},
 	"devDependencies": {
