@@ -1,5 +1,11 @@
 # @ctx-core/app_version
 
+## 16.3.40
+
+### Patch Changes
+
+- package.json: fix: exports paths
+
 ## 16.3.39
 
 ### Patch Changes

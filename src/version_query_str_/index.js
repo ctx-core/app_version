@@ -1,4 +1,4 @@
-import { version_, version_params__I } from '../version_/index.js'
+import { version_ } from '../version_/index.js'
 /**
  * version query param
  * @returns {string}
