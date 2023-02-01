@@ -1,5 +1,13 @@
 # @ctx-core/app_version
 
+## 16.3.46
+
+### Patch Changes
+
+- @ctx-core/array: ^26.8.14 -> ^26.8.15
+- Updated dependencies
+  - @ctx-core/atob@10.0.87
+
 ## 16.3.45
 
 ### Patch Changes
