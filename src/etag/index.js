@@ -13,8 +13,9 @@ export const protocol_version = 0
  * - {Uint32} timestamp (optional)
  * - 96 bits - rest
  * @param {string} etag - base64 encoded etag format
+ * @returns {import('./index.d.ts').etag_o_T}
  */
-export function etag_ctx_(etag) {
+export function etag_o_(etag) {
 	const etag$ = etag.replace('-', '')
 	const atob_Uint32Array = atob_Uint32Array_(etag$)
 	const protocol_version = atob_Uint32Array[0]
@@ -28,6 +29,7 @@ export function etag_ctx_(etag) {
 	return etag_ctx
 }
 export {
-	etag_ctx_ as _etag_ctx,
-	etag_ctx_ as _ctx__etag,
+	etag_o_ as etag_ctx_,
+	etag_o_ as _etag_ctx,
+	etag_o_ as _ctx__etag,
 }

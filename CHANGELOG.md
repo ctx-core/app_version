@@ -1,5 +1,26 @@
 # @ctx-core/app_version
 
+## 16.4.0
+
+### Minor Changes
+
+- - js_versioned**params_T: aliased by js_versioned_params**I
+- - etag*o*: aliased by etag*ctx*
+- - etag_o_T: aliased by etag_ctx_T
+- - version**params_T: aliased by version_params**I
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/array@26.11.0
+
 ## 16.3.77
 
 ### Patch Changes

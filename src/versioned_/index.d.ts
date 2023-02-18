@@ -1,8 +1,2 @@
-import type { version_params__I } from '../version_'
-/**
- * versioned file
- * @param {*}ctx
- * @param {string} url
- * @returns {string}
- */
-export declare function versioned_(url:string, params:version_params__I):string
+import type { version__params_T } from '../version_'
+export declare function versioned_(url:string, params:version__params_T):string

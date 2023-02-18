@@ -1,9 +1,8 @@
 import { versioned_ } from '../versioned_/index.js'
 /**
  *
- * @param {*}ctx
- * @param script_src
- * @param params
+ * @param script_src{string}
+ * @param params{import('./index.d.ts').js_versioned__params_T}
  * @returns {string}
  */
 export function js_versioned_(script_src, params) {
