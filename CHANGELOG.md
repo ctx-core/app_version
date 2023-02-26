@@ -1,5 +1,13 @@
 # @ctx-core/app_version
 
+## 16.4.29
+
+### Patch Changes
+
+- import*meta_env*() instead of process.env
+- Updated dependencies
+  - @ctx-core/env@17.2.18
+
 ## 16.4.28
 
 ### Patch Changes
