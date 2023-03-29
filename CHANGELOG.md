@@ -1,5 +1,13 @@
 # @ctx-core/app_version
 
+## 16.4.83
+
+### Patch Changes
+
+- @ctx-core/env: ^17.2.43 -> ^17.2.44
+- Updated dependencies
+  - @ctx-core/env@17.2.45
+
 ## 16.4.82
 
 ### Patch Changes
