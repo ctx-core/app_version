@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "16.4.92",
+	"version": "16.4.93",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -34,8 +34,8 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "^26.12.10",
-		"@ctx-core/atob": "^10.1.69",
-		"@ctx-core/env": "^17.2.55",
+		"@ctx-core/atob": "^10.1.70",
+		"@ctx-core/env": "^17.2.56",
 		"@ctx-core/nanostores": "^3.1.20",
 		"@ctx-core/object": "^27.4.2"
 	},
