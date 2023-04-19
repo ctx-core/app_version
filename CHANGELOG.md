@@ -1,5 +1,17 @@
 # @ctx-core/app_version
 
+## 16.4.120
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/array@26.12.32
+  - @ctx-core/atob@10.1.94
+  - @ctx-core/env@17.2.83
+  - @ctx-core/nanostores@3.2.22
+  - @ctx-core/object@27.4.23
+
 ## 16.4.119
 
 ### Patch Changes
