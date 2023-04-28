@@ -1,5 +1,11 @@
 # @ctx-core/app_version
 
+## 16.4.125
+
+### Patch Changes
+
+- @ctx-core/atob: ^10.1.96 -> ^10.1.97
+
 ## 16.4.124
 
 ### Patch Changes
