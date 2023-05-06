@@ -1,4 +1,6 @@
-export declare function version_(params?:version__params_T):string
+export declare function version_(
+	params?:version__params_T
+):string
 export interface version__params_T {
 	CACHE_VERSION?:string
 	VERSION?:string

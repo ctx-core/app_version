@@ -1,5 +1,12 @@
 # @ctx-core/app_version
 
+## 16.5.0
+
+### Minor Changes
+
+- - app*version*
+- - app*version_query*
+
 ## 16.4.131
 
 ### Patch Changes

@@ -1,8 +1,9 @@
 import { CACHE_VERSION__, VERSION__ } from '@ctx-core/env'
-import { computed_ } from '@ctx-core/nanostores'
-import { be_ } from '@ctx-core/object'
-/** @type {typeof import('./index.d.ts').app_version__} */
-export const app_version__ = be_('app_version_', ctx=>
+import { be_computed_pair_, computed_ } from '@ctx-core/nanostores'
+export const [
+	app_version__,
+	app_version_,
+] = be_computed_pair_('app_version_', ctx=>
 	computed_([
 			CACHE_VERSION__(ctx),
 			VERSION__(ctx),

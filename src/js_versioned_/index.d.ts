@@ -6,7 +6,10 @@ import type { version__params_T } from '../version_'
  * @param params
  * @returns {string}
  */
-export declare function js_versioned_(script_src:string, params:js_versioned__params_T):string
+export declare function js_versioned_(
+	script_src:string,
+	params:js_versioned__params_T
+):string
 export { js_versioned_ as _versioned__js }
 export interface js_versioned__params_T extends version__params_T {
 	debug?:boolean

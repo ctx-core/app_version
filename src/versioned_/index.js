@@ -5,6 +5,9 @@ import { version_ } from '../version_/index.js'
  * @param url{import('../version_').version__params_T}
  * @returns {string}
  */
-export function versioned_(url, params) {
+export function versioned_(
+	url,
+	params
+) {
 	return `${url}?${version_(params)}`
 }
