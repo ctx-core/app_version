@@ -1,5 +1,14 @@
 # @ctx-core/app_version
 
+## 16.5.7
+
+### Patch Changes
+
+- app*version_query\_\_,
+  app_version_query*:
+
+      fix: type
+
 ## 16.5.6
 
 ### Patch Changes
