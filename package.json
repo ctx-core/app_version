@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "16.5.11",
+	"version": "16.5.12",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -33,11 +33,11 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.12.35",
+		"@ctx-core/array": "^26.12.36",
 		"@ctx-core/atob": "^10.1.101",
-		"@ctx-core/env": "^17.2.98",
-		"@ctx-core/nanostores": "^4.0.6",
-		"@ctx-core/object": "^27.4.26"
+		"@ctx-core/env": "^17.2.99",
+		"@ctx-core/nanostores": "^4.0.7",
+		"@ctx-core/object": "^27.5.0"
 	},
 	"devDependencies": {
 		"c8": "^7.14.0",
