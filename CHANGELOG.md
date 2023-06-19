@@ -1,5 +1,12 @@
 # @ctx-core/app_version
 
+## 16.5.41
+
+### Patch Changes
+
+- app*version_query$* is primary: aliased by app_version_query\_\_
+- app*version$* is primary: aliased by app_version\_\_
+
 ## 16.5.40
 
 ### Patch Changes

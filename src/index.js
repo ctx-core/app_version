@@ -1,5 +1,5 @@
-export * from './app_version__/index.js'
-export * from './app_version_query__/index.js'
+export * from './app_version/index.js'
+export * from './app_version_query/index.js'
 export * from './etag/index.js'
 export * from './js_versioned_/index.js'
 export * from './version_/index.js'

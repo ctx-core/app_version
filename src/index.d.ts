@@ -1,5 +1,5 @@
-export * from './app_version__'
-export * from './app_version_query__'
+export * from './app_version'
+export * from './app_version_query'
 export * from './etag'
 export * from './js_versioned_'
 export * from './version_'
