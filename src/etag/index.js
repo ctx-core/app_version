@@ -1,4 +1,4 @@
-o/**
+/**
  * ctx-core version etag functions
  * @module @ctx-core/version__app/etag
  */

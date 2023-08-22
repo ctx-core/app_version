@@ -1,5 +1,11 @@
 # @ctx-core/app_version
 
+## 16.5.63
+
+### Patch Changes
+
+- etag*o*: fix: - o is not defined
+
 ## 16.5.62
 
 ### Patch Changes
