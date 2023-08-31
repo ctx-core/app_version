@@ -1,5 +1,11 @@
 # @ctx-core/app_version
 
+## 16.5.66
+
+### Patch Changes
+
+- @ctx-core/array: ^26.14.1 -> ^26.15.0
+
 ## 16.5.65
 
 ### Patch Changes
