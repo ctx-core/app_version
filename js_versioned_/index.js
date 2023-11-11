@@ -1,4 +1,4 @@
-import { versioned_ } from '../versioned_/index.js'
+import { versioned_ } from '../versioned_'
 /**
  *
  * @param script_src{string}
@@ -11,8 +11,8 @@ export function js_versioned_(
 ) {
 	const extName =
 		(!params || !params.debug)
-		? '.min.js'
-		: '.js'
+			? '.min.js'
+			: '.js'
 	return versioned_(
 		`${script_src}${extName}`
 		, params)

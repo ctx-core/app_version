@@ -1,4 +1,4 @@
-import { version_ } from '../version_/index.js'
+import { version_ } from '../version_'
 /**
  * versioned file
  * @param url{string}

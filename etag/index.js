@@ -2,7 +2,7 @@
  * ctx-core version etag functions
  * @module @ctx-core/version__app/etag
  */
-import { atob_Uint32Array_ } from '@ctx-core/atob'
+import { atob_Uint32Array_ } from '@ctx-core/atob/index'
 export const protocol_version = 0
 /**
  * Extracts weak ETag formatted with:

@@ -1,5 +1,5 @@
 import { be_computed_pair_, computed_ } from '@ctx-core/nanostores'
-import { app_version$_ } from '../app_version/index.js'
+import { app_version$_ } from '../app_version'
 export const [
 	app_version_query$_,
 	app_version_query_,

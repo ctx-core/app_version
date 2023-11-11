@@ -1,4 +1,4 @@
-import { version_ } from '../version_/index.js'
+import { version_ } from '../version_'
 /**
  * version query param
  * @param params{import('./index.d.ts').version__params_T}

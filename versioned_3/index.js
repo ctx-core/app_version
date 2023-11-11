@@ -1,4 +1,4 @@
-import { versioned_ } from '../versioned_/index.js'
+import { versioned_ } from '../versioned_'
 /**
  * _versioned with ctx
  * @param params{import('../version_').version__params_T}

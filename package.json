@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "16.5.106",
+	"version": "16.6.0",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,21 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./app_version",
+		"./app_version_query",
+		"./env",
+		"./etag",
+		"./js_versioned_",
+		"./version_",
+		"./version_query_str_",
+		"./versioned_",
+		"./versioned_3"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -33,11 +44,10 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.15.9",
-		"@ctx-core/atob": "^10.1.149",
-		"@ctx-core/env": "^17.3.19",
-		"@ctx-core/nanostores": "^7.0.8",
-		"@ctx-core/object": "^30.0.0"
+		"@ctx-core/array": "^27.0.0",
+		"@ctx-core/atob": "^10.2.0",
+		"@ctx-core/env": "^17.4.0",
+		"@ctx-core/nanostores": "^7.1.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",

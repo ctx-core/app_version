@@ -1,5 +1,28 @@
 # @ctx-core/app_version
 
+## 16.6.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/atob@10.2.0
+  - @ctx-core/array@27.0.0
+  - @ctx-core/env@17.4.0
+  - @ctx-core/nanostores@7.1.0
+
 ## 16.5.106
 
 ### Patch Changes
