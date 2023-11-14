@@ -1,5 +1,16 @@
 # @ctx-core/app_version
 
+## 16.6.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/array@27.0.3
+  - @ctx-core/atob@10.2.3
+  - @ctx-core/env@17.4.3
+  - @ctx-core/nanostores@7.1.4
+
 ## 16.6.2
 
 ### Patch Changes
