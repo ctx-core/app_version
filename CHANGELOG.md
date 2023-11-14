@@ -1,5 +1,16 @@
 # @ctx-core/app_version
 
+## 16.6.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/array@27.0.2
+  - @ctx-core/atob@10.2.2
+  - @ctx-core/env@17.4.2
+  - @ctx-core/nanostores@7.1.3
+
 ## 16.6.1
 
 ### Patch Changes
