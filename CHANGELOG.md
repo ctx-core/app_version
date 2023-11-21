@@ -1,5 +1,18 @@
 # @ctx-core/app_version
 
+## 16.6.25
+
+### Patch Changes
+
+- @ctx-core/atob: ^10.2.20 -> ^10.2.21
+- @ctx-core/array: ^27.0.20 -> ^27.0.21
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/env@17.4.24
+  - @ctx-core/nanostores@9.0.6
+
 ## 16.6.24
 
 ### Patch Changes
