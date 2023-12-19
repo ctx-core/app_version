@@ -1,5 +1,13 @@
 # @ctx-core/app_version
 
+## 16.6.62
+
+### Patch Changes
+
+- consolidate dependencies
+- Updated dependencies
+  - ctx-core@5.1.0
+
 ## 16.6.61
 
 ### Patch Changes

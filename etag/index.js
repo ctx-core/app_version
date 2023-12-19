@@ -1,8 +1,9 @@
+/// <reference types="./index.d.ts" />
 /**
  * ctx-core version etag functions
  * @module @ctx-core/version__app/etag
  */
-import { atob_Uint32Array_ } from '@ctx-core/atob/index'
+import { atob_Uint32Array_ } from 'ctx-core/atob'
 export const protocol_version = 0
 /**
  * Extracts weak ETag formatted with:
@@ -13,7 +14,7 @@ export const protocol_version = 0
  * - {Uint32} timestamp (optional)
  * - 96 bits - rest
  * @param {string} etag - base64 encoded etag format
- * @returns {import('./index.d.ts').etag_o_T}
+ * @returns {etag_o_T}
  */
 export function etag_o_(etag) {
 	const etag$ = etag.replace('-', '')
