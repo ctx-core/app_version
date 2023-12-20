@@ -1,7 +1,8 @@
-import { version_ } from '../version_'
+/// <reference types="./index.d.ts" />
+import { version_ } from '../version/index.js'
 /**
  * version query param
- * @param params{import('./index.d.ts').version__params_T}
+ * @param {version__params_T}params
  * @returns {string}
  */
 export function version_query_str_(

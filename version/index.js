@@ -1,5 +1,5 @@
-import { import_meta_env_ } from '@ctx-core/env'
-/** @typedef {import('./index.d.ts').version__params_T} */
+/// <reference types="./index.d.ts" />
+import { import_meta_env_ } from 'ctx-core/env'
 /**
  * @param {version__params_T}params
  * @returns {string}

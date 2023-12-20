@@ -1,8 +1,9 @@
-import { versioned_ } from '../versioned_'
+/// <reference types="./index.d.ts" />
+import { versioned_ } from '../versioned/index.js'
 /**
  *
- * @param script_src{string}
- * @param params{import('./index.d.ts').js_versioned__params_T}
+ * @param {string}script_src
+ * @param {js_versioned__params_T}params
  * @returns {string}
  */
 export function js_versioned_(

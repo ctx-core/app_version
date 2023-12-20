@@ -1,12 +1,11 @@
-import { versioned_ } from '../versioned_'
+/// <reference types="../version/index.d.ts" />
+import { versioned_ } from '../versioned/index.js'
 /**
  * _versioned with ctx
- * @param params{import('../version_').version__params_T}
+ * @param {version__params_T}params
  * @returns {(url:string)=>string}
  */
-export function versioned_3(
-	params
-) {
+export function versioned_3(params) {
 	return function versioned_2(url) {
 		return versioned_(url, params)
 	}

@@ -25,10 +25,10 @@
 		"./app_version_query",
 		"./env",
 		"./etag",
-		"./js_versioned_",
-		"./version_",
-		"./version_query_str_",
-		"./versioned_",
+		"js_versioned",
+		"version",
+		"version_query_str",
+		"versioned",
 		"./versioned_3"
 	],
 	"types": "./index.d.ts",
@@ -46,8 +46,6 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.4.61",
-		"@ctx-core/nanostores": "^10.0.4",
 		"ctx-core": "^5.1.0"
 	},
 	"devDependencies": {
