@@ -1,5 +1,11 @@
 # @ctx-core/app_version
 
+## 16.6.83
+
+### Patch Changes
+
+- ctx-core: ^5.15.0 -> ^5.16.0
+
 ## 16.6.82
 
 ### Patch Changes
