@@ -1,5 +1,13 @@
 # @ctx-core/app_version
 
+## 16.6.163
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 16.6.162
 
 ### Patch Changes
