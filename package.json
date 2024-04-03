@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/app_version",
-	"version": "16.6.175",
+	"version": "16.6.176",
 	"description": "ctx-core app_version",
 	"keywords": [
 		"ctx-core",
@@ -51,7 +51,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^7.1.0"
+		"ctx-core": "^7.1.1"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
