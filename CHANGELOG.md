@@ -1,5 +1,13 @@
 # @ctx-core/app_version
 
+## 16.6.214
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 16.6.213
 
 ### Patch Changes
